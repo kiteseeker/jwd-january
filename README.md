@@ -1,4 +1,5 @@
 # jwd-january
+Task 1:
 
 Defined hierarchy of gemstones in accordance with their chemical structure / origin / physical properties
 
@@ -12,6 +13,7 @@ and color determine impurities.
 
 In accordance with generally accepted classifications, all others jewelery gemstones are "semiprecious", and 
 can be divided into:
+
 3. Semiprecious Mineral stones - stones of mineral origin - nature silicates with color determine impurities.
 4. Semiprecious Organic stones - stones of nature origin - produced by animals or plants.
 
