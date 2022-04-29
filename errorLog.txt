@@ -1,0 +1,9 @@
+31-03-2022 14:43:06 - File InputFile not found
+java.io.FileNotFoundException: InputFile (Не удается найти указанный файл)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_321]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_321]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_321]
+	at java.io.FileInputStream.<init>(FileInputStream.java:93) ~[?:1.8.0_321]
+	at java.io.FileReader.<init>(FileReader.java:58) ~[?:1.8.0_321]
+	at com.epam.jwd.task02.parser.FileToTextLinesParser.textLinesFromInputFile(FileToTextLinesParser.java:30) ~[classes/:?]
+	at com.epam.jwd.task02.Main.main(Main.java:15) ~[classes/:?]
